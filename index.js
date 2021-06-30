@@ -1,2 +1,4 @@
 var num1 = 24;
-num1 = false;
+console.log(num1);
+num1 = 14;
+console.log(num1);
