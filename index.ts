@@ -1,5 +1,15 @@
-let num1 = 24;
-console.log (num1)
 
-num1 = 14;
-console.log(num1)
+// variables
+let num1 = 24;
+let num2:number;
+num2 = 5
+let as: number | string;
+as = 5
+
+// tableaux
+
+let tableau : (number | boolean)[] = [];
+
+tableau.push(false);
+tableau.push(24);
+console.log(tableau);
